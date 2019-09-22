@@ -1,5 +1,4 @@
 This plugin will kill players while fishing.
-Players will not lose items or xp on death.
 
 CONFIG:
 
