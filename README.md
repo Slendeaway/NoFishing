@@ -3,12 +3,17 @@ Players will not lose items or xp on death.
 
 CONFIG:
 
--deathChance is the denominator of the fraction 1/deathChance. Higher values = less deaths.
+-deathChance: The denominator of the fraction 1/deathChance. Higher values = less deaths.
+
+-deathMessages: Custom death messages. Please keep the formatting if you plan to add your own.
+
+-xpLost: Toggles whether or not you keep your xp on death.
+
+-itemsLost: Toggles whether or not you keep your items on death.
+
 
 //
 
 TODO:
 
--Add item/xp loss to configs.
-
--Add custom death messages to configs.
+Major update. Different ways to prevent afk fishing planned.
